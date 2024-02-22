@@ -1,0 +1,17 @@
+def solution(price):
+    
+    if price >= 500000:
+        price = price - (price * 0.2)
+        
+    elif price >= 300000:
+        price = price - (price * 0.1)
+        
+    elif price >= 100000 and price < 300000:
+        price = price - (price * 0.05)
+        
+    else:
+        price = price
+        
+    answer = int(price)
+    
+    return answer
