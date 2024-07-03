@@ -11,5 +11,4 @@ int solution(int n) {
         if (tgamma(i + 1) > n) return i - 1;
         i++;
     }
-    return n;
 }
