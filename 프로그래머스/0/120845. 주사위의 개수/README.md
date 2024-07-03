@@ -1,10 +1,10 @@
 # [level 0] 주사위의 개수 - 120845 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120845) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120845?language=cpp) 
 
 ### 성능 요약
 
-메모리: 10.3 MB, 시간: 0.00 ms
+메모리: 4.02 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 07월 03일 17:38:21
+2024년 07월 03일 17:39:19
 
 ### 문제 설명
 
