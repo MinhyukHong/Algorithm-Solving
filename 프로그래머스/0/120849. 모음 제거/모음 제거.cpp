@@ -4,6 +4,7 @@
 
 using namespace std;
 
+// 람다 함수 구현
 string solution(string my_string) {
     string vowels = "aeiou";
     
@@ -12,7 +13,7 @@ string solution(string my_string) {
     return my_string;
 }
 
-// 반복문으로 구현
+// 반복문 구현
 /* string solution(string my_string) {
     string vowels = "aeiou";
     string answer ="";
