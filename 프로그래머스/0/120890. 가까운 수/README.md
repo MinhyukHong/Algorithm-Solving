@@ -1,10 +1,10 @@
 # [level 0] 가까운 수 - 120890 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120890?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120890?language=cpp) 
 
 ### 성능 요약
 
-메모리: 10.3 MB, 시간: 0.00 ms
+메모리: 3.61 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 07월 07일 19:55:24
+2024년 07월 07일 20:01:07
 
 ### 문제 설명
 
