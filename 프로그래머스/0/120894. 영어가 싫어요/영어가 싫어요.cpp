@@ -15,6 +15,5 @@ long long solution(string numbers) {
             temp = "";
         }
     }
-    
     return answer;
 }
