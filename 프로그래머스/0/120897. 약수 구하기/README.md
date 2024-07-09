@@ -1,10 +1,10 @@
 # [level 0] 약수 구하기 - 120897 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120897) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120897?language=cpp) 
 
 ### 성능 요약
 
-메모리: 10.1 MB, 시간: 0.01 ms
+메모리: 4.17 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 07월 09일 12:04:17
+2024년 07월 09일 12:38:54
 
 ### 문제 설명
 
