@@ -1,10 +1,10 @@
 # [level 0] 다항식 더하기 - 120863 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120863) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120863?language=cpp) 
 
 ### 성능 요약
 
-메모리: 10.2 MB, 시간: 0.03 ms
+메모리: 3.68 MB, 시간: 0.03 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 07월 21일 22:40:18
+2024년 07월 21일 22:58:34
 
 ### 문제 설명
 
