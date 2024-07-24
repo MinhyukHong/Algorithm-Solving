@@ -10,6 +10,5 @@ int solution(int a, int b) {
         if (i == 3) continue;
         while (!(b % i)) b /= i;
     }
-    if (b == 1) return 1;
-    else return 2;
+    return (b == 1) ? 1 : 2;
 }
